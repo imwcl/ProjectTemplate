@@ -23,10 +23,10 @@
 @implementation ___FILEBASENAMEASIDENTIFIER___
 
 
-#pragma mark Public Methods
+#pragma mark - Public Methods
 
 
-#pragma mark Override Methods
+#pragma mark - Override Methods
 /*
  // Only override drawRect: if you perform custom drawing.
  // An empty implementation adversely affects performance during animation.
@@ -35,22 +35,22 @@
  }
  */
 
-#pragma mark Initial Methods
+#pragma mark - Initial Methods
 
 
-#pragma mark Setter Getter Methods
+#pragma mark - Setter Getter Methods
 
 
-#pragma mark Privater Methods
+#pragma mark - Privater Methods
 
 
-#pragma mark KVO Methods
+#pragma mark - KVO Methods
 
 
-#pragma mark Notification Methods
+#pragma mark - Notification Methods
 
 
-#pragma mark Target Methods
+#pragma mark - Target Methods
 
 
 @end

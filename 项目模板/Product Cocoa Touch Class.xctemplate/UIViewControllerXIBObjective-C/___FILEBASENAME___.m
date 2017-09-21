@@ -26,10 +26,10 @@
 
 @implementation ___FILEBASENAMEASIDENTIFIER___
 
-#pragma mark Public Methods
+#pragma mark - Public Methods
 
 
-#pragma mark Override Methods
+#pragma mark - Override Methods
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
@@ -50,22 +50,22 @@
  }
  */
 
-#pragma mark Initial Methods
+#pragma mark - Initial Methods
 
 
-#pragma mark Setter Getter Methods
+#pragma mark - Setter Getter Methods
 
 
-#pragma mark Privater Methods
+#pragma mark - Privater Methods
 
 
-#pragma mark KVO Methods
+#pragma mark - KVO Methods
 
 
-#pragma mark Notification Methods
+#pragma mark - Notification Methods
 
 
-#pragma mark Target Methods
+#pragma mark - Target Methods
 
 
 

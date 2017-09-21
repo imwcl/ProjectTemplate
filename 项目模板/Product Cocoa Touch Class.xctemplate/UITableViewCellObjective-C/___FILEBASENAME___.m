@@ -22,10 +22,10 @@
 
 @implementation ___FILEBASENAMEASIDENTIFIER___
 
-#pragma mark Public Methods
+#pragma mark - Public Methods
 
 
-#pragma mark Override Methods
+#pragma mark - Override Methods
 - (void)awakeFromNib {
     [super awakeFromNib];
     // Initialization code
@@ -37,22 +37,22 @@
     // Configure the view for the selected state
 }
 
-#pragma mark Initial Methods
+#pragma mark - Initial Methods
 
 
-#pragma mark Setter Getter Methods
+#pragma mark - Setter Getter Methods
 
 
-#pragma mark Privater Methods
+#pragma mark - Privater Methods
 
 
-#pragma mark KVO Methods
+#pragma mark - KVO Methods
 
 
-#pragma mark Notification Methods
+#pragma mark - Notification Methods
 
 
-#pragma mark Target Methods
+#pragma mark - Target Methods
 
 
 @end

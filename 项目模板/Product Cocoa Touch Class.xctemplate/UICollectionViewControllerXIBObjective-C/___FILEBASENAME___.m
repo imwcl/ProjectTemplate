@@ -55,7 +55,7 @@ static NSString * const reuseIdentifier = @"Cell";
 }
 */
 
-#pragma mark <UICollectionViewDataSource>
+#pragma mark - <UICollectionViewDataSource>
 
 - (NSInteger)numberOfSectionsInCollectionView:(UICollectionView *)collectionView {
 #warning Incomplete implementation, return the number of sections
@@ -76,7 +76,7 @@ static NSString * const reuseIdentifier = @"Cell";
     return cell;
 }
 
-#pragma mark <UICollectionViewDelegate>
+#pragma mark - <UICollectionViewDelegate>
 
 /*
 // Uncomment this method to specify if the specified item should be highlighted during tracking
