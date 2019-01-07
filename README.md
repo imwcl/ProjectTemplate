@@ -12,7 +12,7 @@
 # 使用
 
 - 首先下载本文件夹中的`项目模板`文件夹
-- 让进入到一下目录：`/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Templates/File Templates`
+- 让进入到一下目录：`~Library/Developer/Xcode/Templates/File Templates`
 - 让后复制一份到上面的文件夹下
 
 # 图示
